@@ -6,7 +6,7 @@ A production-grade document processing system that extracts structured data from
 
 ## Live Demo
 
-- **Frontend**: https://your-vercel-url.vercel.app
+- **Frontend**: [https://ocr-pipeline-frontend.vercel.app/](https://ocr-pipeline-frontend.vercel.app/)
 - **Backend API**: https://JavaPD-ocr-pipeline-backend.hf.space
 - **API Docs**: https://JavaPD-ocr-pipeline-backend.hf.space/docs
 
