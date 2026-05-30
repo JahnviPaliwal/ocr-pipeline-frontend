@@ -96,8 +96,12 @@ ocr-extraction-pipeline/
 ├── .env.example
 └── README.md
 ```
+<img width="196" height="150" alt="Image" src="https://github.com/user-attachments/assets/b2d39dab-226a-4cd8-9cc0-ae0433c24b04" />
 
----
+
+
+<img width="159" height="150" alt="Image" src="https://github.com/user-attachments/assets/3f2db2ee-0e5a-45ac-9950-d600909d5fb0" />
+
 
 ## Prerequisites
 
